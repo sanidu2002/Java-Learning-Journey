@@ -1,6 +1,6 @@
 public class stringmethods {
     public static void main(String[] args) {
-        String str = "Hello World";
+        String str = "Hello World";  //string literal
 
         System.out.println("Original : " + str);
 
